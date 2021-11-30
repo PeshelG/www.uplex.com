@@ -1,0 +1,77 @@
+body{
+    background-color:brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+nav {
+    background-color: rgb(255, 255, 255);
+    color:brown;
+    text-align: center;
+    margin: 0px;
+    padding: 20px;
+    font-size: 50px;
+    position: inherit;
+}
+#motto{
+    font-size: 20px;
+}
+article{
+    background-color: aliceblue;
+    margin:40px 20px;
+    padding: 70px 120px;
+    border-style: solid;
+    border-left-color: black;
+    border-right-color: black;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-width: 5px 0px 5px 0px;
+}
+#btn_upload{
+    background-color: white;
+    border-radius: 10px 10px 0px 10px;
+    -webkit-border-radius: 10px 10px 0px 10px;
+    -moz-border-radius: 10px 10px 0px 10px;
+    -ms-border-radius: 10px 10px 0px 10px;
+    -o-border-radius: 10px 10px 0px 10px;
+    padding: 10px;
+    margin: 20px;
+}
+#time{
+    text-align: right;
+}
+.comments{
+    background-color:white;
+    font-size: 11px;
+    padding:5px;
+    margin:2px;
+    border-radius: 10px 10px 0px 10px;
+    -webkit-border-radius: 10px 10px 0px 10px;
+    -moz-border-radius: 10px 10px 0px 10px;
+    -ms-border-radius: 10px 10px 0px 10px;
+    -o-border-radius: 10px 10px 0px 10px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: 1px;
+    display: block;
+}
+h3{
+    background-color: brown;
+    color: white;
+    padding:10px;
+    margin-top: 0px;
+    border-radius: 10px 10px 0px 0px;
+    -webkit-border-radius: 10px 10px 0px 0px;
+    -moz-border-radius: 10px 10px 0px 0px;
+    -ms-border-radius: 10px 10px 0px 0px;
+    -o-border-radius: 10px 10px 0px 0px;
+}
+footer{
+    background-color: white;
+    color: brown;
+    padding: 10px;
+    margin: 0px;
+    text-align: center;
+}
